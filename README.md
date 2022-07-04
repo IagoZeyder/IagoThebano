@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, PHP**
 
-- 💬 Ask me about **WEB**
+- 💬 Ask me about 
 
 - 📫 How to reach me **iagothebano200@gmail.com**
 
