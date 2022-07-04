@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Iago Thebano</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iagozeyder&label=Profile%20views&color=0e75b6&style=flat" alt="iagozeyder" /> </p>
-
+<img align="right" alt="coding"  width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 - 🔭 I’m currently working on [InterJogos](https://interjogos.epizy.com/?i=1)
 
-- 🌱 I’m currently learning **Javascript, React, PHP**
+- 🌱 I’m currently learning **JavaScript, React, PHP**
 
-- 💬 Ask me about 
+- 👨‍💻 All of my projects are available at [https://github.com/IagoZeyder](https://github.com/IagoZeyder)
+
+- 💬 Ask me about **WEB**
 
 - 📫 How to reach me **iagothebano200@gmail.com**
 
