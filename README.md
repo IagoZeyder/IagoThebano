@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Iago Thebano</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iagozeyder&label=Profile%20views&color=0e75b6&style=flat" alt="iagozeyder" /> k </p>
-<img align="right" alt="coding"  width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iagozeyder&label=Profile%20views&color=0e75b6&style=flat" alt="iagozeyder" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iagozeyder" alt="iagozeyder" /></a> </p>
+
 - 🔭 I’m currently working on [InterJogos](https://interjogos.epizy.com/?i=1)
 
 - 🌱 I’m currently learning **JavaScript, React, PHP**
@@ -20,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iago-thebano-a3b851221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iago-thebano-a3b851221" height="30" width="40" /></a>
 <a href="https://instagram.com/king_iago22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_iago22" height="30" width="40" /></a>
-<a href="https://discord.gg/King_iago#6884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="King_iago#6884" height="30" width="40" /></a>
+<a href="https://discord.gg/#6884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6884" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
