@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [InterJogos](https://interjogos.epizy.com/?i=1)
 
-- 🌱 I’m currently learning **JavaScript, React, PHP**
+- 🌱 I’m currently learning **Javascript, React, PHP**
 
 - 💬 Ask me about 
 
