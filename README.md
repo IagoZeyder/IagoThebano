@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iago Thebano</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iagozeyder&label=Profile%20views&color=0e75b6&style=flat" alt="iagozeyder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iagozeyder&label=Profile%20views&color=0e75b6&style=flat" alt="iagozeyder" /> k </p>
 <img align="right" alt="coding"  width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 - 🔭 I’m currently working on [InterJogos](https://interjogos.epizy.com/?i=1)
 
